@@ -23,11 +23,7 @@
 		SearchPaths
 		{
 			Game |gameinfo_path|.
-			Game	"${{source2006_hl2mp_patches_path}}" // Apply specific HL2MP 2006 patches
-			Game	"${{source2006_hl2mp_content_path}}" // Make sure HL2MP 2006 content has priority
 			Game hl2mp
-			Game	"${{source2006_hl2_patches_path}}"
-			Game	"${{source2006_hl2_content_path}}"
 			Game hl2
 		}
 	}
